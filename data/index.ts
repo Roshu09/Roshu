@@ -110,6 +110,7 @@ export const navItems = [
         "Roshu's web skills are funnier than my best punchlines! He didn't just upgrade my website; he turned it into a comedy goldmine. His creativity is like my jokes – top-notch and totally meme-worthy. If you want your project to be the life of the online party, Roshu's your hilarious web wizard!.",
       name: "Tanmay Bhatt",
       title: "Content Creator?",
+      profileImage: "/tanmay_bhat.png",
     },
    
     {
@@ -117,24 +118,28 @@ export const navItems = [
         "Roshu rocks! He didn't just upgrade my website; he made it so cool, even Spidey's jealous. His skills are as sharp as my katanas, and his dedication is like a superhero on caffeine. Hire him before I decide to crash your project, and trust me, you don't want that.",
       name: "Deadpool",
       title: "Ex X-MEN",
+      profileImage: "/deadpool.png",
     },
     {
       quote:
         "Working with Roshu was a rare potion of efficiency and brilliance. He didn't just assist in updating Hogwarts' archaic systems; he managed to keep Peeves at bay and even taught the Marauder's Map some new tricks.If you need results that are nothing short of magical, Roshu is your wizard.",
       name: "Severus Snape",
       title: "Hogwarts' Professor ",
+      profileImage: "/snape.png"
     },
     {
       quote:
         "Collaborating with Roshu was like launching a new rocket: thrilling and groundbreaking. He assisted me in developing the next generation of Tesla's AI and even brainstormed ideas for colonizing Mars. His innovative mindset, technical prowess, and relentless dedication make him a true asset to any ambitious project. If you're looking to reach for the stars,.",
       name: "Elon Mask",
       title: "Director of SpaceX Technologies",
+      profileImage: "/elon_mask.png",
     },
     {
       quote:
         "Collaborating with Roshu was an absolute pleasure.He assisted me to develop my next AI to feel my virtual presence after the Endgame.He also working to advance up my suit.  His professionalism, promptness, and dedication to delivering results had me wondering if he's secretly part of the Avengers. Seriously, if you need someone to save your project (or the world), Roshu's your guy.",
       name: "Tony Stark",
       title: "Iron Man",
+      profileImage: "/ironman.png",
     },
   ];
   
