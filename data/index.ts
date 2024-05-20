@@ -143,7 +143,7 @@ export const navItems = [
       id: 1,
       name: "cloudinary",
       img: "/cloud.svg",
-      nameImg: "/cloudName.svg",
+      nameImg: "/cloudanry.png",
     },
     {
       id: 2,
@@ -154,8 +154,8 @@ export const navItems = [
     {
       id: 3,
       name: "HOSTINGER",
-      img: "/host.svg",
-      nameImg: "/hostName.svg",
+      img: "/sentry.svg",
+      nameImg: "/sentry.png",
     },
     {
       id: 4,
@@ -167,7 +167,7 @@ export const navItems = [
       id: 5,
       name: "MongoDB.",
       img: "/react.svg",
-      nameImg: "/dockerName.svg",
+      nameImg: "/react.png",
     },
   ];
   
